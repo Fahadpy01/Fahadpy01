@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahadpy01
 - 👀 I’m interested in ...food
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
